@@ -1,0 +1,36 @@
+.feature{
+    padding: 4rem 0rem;
+    display: flex;
+    align-items: center;
+}
+
+.header-heading2{
+    color: black;
+    text-align: center;
+}
+.feature-box{
+    background-color:black;
+    border-radius: 10px;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width:500%;
+    height: 300px;
+}
+.title{
+    color:white;
+    font-size: 30px;
+
+}
+.text{
+    color: white;
+}
+.P-tag{
+    color: white;
+    font-family: cursive;
+}
+.Services-title{
+    text-align: center;
+    font-family: cursive;
+}

@@ -1,0 +1,43 @@
+.feature{
+    padding: 4rem 0rem;
+    display: flex;
+    align-items: center;
+}
+
+.about-title {
+    text-align: center;
+    font-size: 5.6rem;
+    font-family: cursive;
+}
+
+.feature-container{
+    display:flex;
+    justify-content: space-between;
+    gap:30px;
+
+}
+.feature-card{
+    background-color: #4A51A3;
+    border-radius: 10px;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    color: black;
+    font-family:cursive;
+    font-weight: 400px;
+    font-size: 25px;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    padding: 40px;
+}
+.text{
+    color: white;
+    font-family: cursive;
+    font-size: 22px;
+}

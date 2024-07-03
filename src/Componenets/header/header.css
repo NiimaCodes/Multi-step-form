@@ -1,0 +1,48 @@
+header {
+    background-image: url("../../assets/360_F_563720356_5IyAJcmoxOp22A5ehdxfZJ4RR9doy6VB.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.header-heading {
+    color: white;
+    font-size: 5.6rem;
+    font-weight: 800;
+    font-family: inherit;
+    line-height: 24px;
+}
+
+.header-button button {
+    padding: 18px 36px;
+    border-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.header-button button:hover {
+    background-color:white;
+    border-radius: 10px;
+    color: black;
+    border-color:white;
+}
+
+.header-text {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}

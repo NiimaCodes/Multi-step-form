@@ -1,0 +1,26 @@
+.resources-container {
+  background-color: grey;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+}
+
+.title4 {
+  color: #fff;
+  font-size: 100px;
+  text-align: center;
+}
+
+.resources-container {
+  display: flex;
+  Justify-content: space-between;
+  width: 100%;
+  gap: 30px;
+}
+
+.recources-video {
+  width: 180%;
+}
